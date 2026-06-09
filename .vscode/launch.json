@@ -1,0 +1,16 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "C# 外部終端機啟動",
+            "type": "coreclr",
+            "request": "launch",
+            "program": "dotnet", 
+            "args": ["run", "--project", "${workspaceFolder}/test/test.csproj"], 
+            "cwd": "${workspaceFolder}/test",
+            // 強制使用外部獨立視窗
+            "console": "externalTerminal", 
+            "stopAtEntry": false
+        }
+    ]
+}

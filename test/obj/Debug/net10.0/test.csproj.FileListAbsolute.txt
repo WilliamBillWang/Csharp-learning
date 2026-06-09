@@ -1,0 +1,14 @@
+C:\Users\Alexios\OneDrive\Desktop\C#\test\bin\Debug\net10.0\test.exe
+C:\Users\Alexios\OneDrive\Desktop\C#\test\bin\Debug\net10.0\test.deps.json
+C:\Users\Alexios\OneDrive\Desktop\C#\test\bin\Debug\net10.0\test.runtimeconfig.json
+C:\Users\Alexios\OneDrive\Desktop\C#\test\bin\Debug\net10.0\test.dll
+C:\Users\Alexios\OneDrive\Desktop\C#\test\bin\Debug\net10.0\test.pdb
+C:\Users\Alexios\OneDrive\Desktop\C#\test\obj\Debug\net10.0\test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexios\OneDrive\Desktop\C#\test\obj\Debug\net10.0\test.AssemblyInfoInputs.cache
+C:\Users\Alexios\OneDrive\Desktop\C#\test\obj\Debug\net10.0\test.AssemblyInfo.cs
+C:\Users\Alexios\OneDrive\Desktop\C#\test\obj\Debug\net10.0\test.csproj.CoreCompileInputs.cache
+C:\Users\Alexios\OneDrive\Desktop\C#\test\obj\Debug\net10.0\test.dll
+C:\Users\Alexios\OneDrive\Desktop\C#\test\obj\Debug\net10.0\refint\test.dll
+C:\Users\Alexios\OneDrive\Desktop\C#\test\obj\Debug\net10.0\test.pdb
+C:\Users\Alexios\OneDrive\Desktop\C#\test\obj\Debug\net10.0\test.genruntimeconfig.cache
+C:\Users\Alexios\OneDrive\Desktop\C#\test\obj\Debug\net10.0\ref\test.dll
